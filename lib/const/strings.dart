@@ -1,0 +1,16 @@
+final String kosharyGodoo='Koshary Godoo';
+final String info='Info';
+final String pastaKoshary='Pasta, Koshary';
+final String veryGood=' very good';
+final String basedIn='based in (2000) ratings';
+final String reviews='Reviews';
+final String within24='Within 24 mis ';
+final String egp4='(EGP 4.999 delivery)';
+final String discountsAvailable='Discounts available for Bank Cards';
+final String deliveredByUs='Delivered by us,with live tracking';
+final String more='More';
+final String mostSelling='Most selling';
+final String summerOffers='Summer offers-Up to 50% off % K';
+final String mostSellingBold='Most selling';
+final String superKoshary='Super Koshary';
+final String priceOnSelection='Price on selection';
